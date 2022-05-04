@@ -1,0 +1,27 @@
+.login-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: "100%";
+    text-align: center;
+    height: 100vh;
+    display: flex;
+
+    .focus-page{
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+        vertical-align: baseline;
+        padding: 20px 50px ;
+        width: 450px;   
+        background-color: white;
+        opacity: 0.9;
+
+        .logo-bnk{
+            width: 30%;
+            margin-bottom: 10px;
+        }
+    }
+}
